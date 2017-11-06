@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "sellingPrice": 5
+  },
+  {
+    "id": 2,
+    "sellingPrice": 10
+  },
+  {
+    "id": 3,
+    "sellingPrice": 12
+  },
+  {
+    "id": 4,
+    "sellingPrice": 13
+  },
+  {
+    "id": 5,
+    "sellingPrice": 21
+  },
+  {
+    "id": 6,
+    "sellingPrice": 72
+  },
+  {
+    "id": 7,
+    "sellingPrice": 18
+  },
+  {
+    "id": 8,
+    "sellingPrice": 50
+  },
+  {
+    "id": 9,
+    "sellingPrice": 60
+  },
+  {
+    "id": 10,
+    "sellingPrice": 9
+  }
+]
